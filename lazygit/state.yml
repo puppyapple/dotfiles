@@ -1,0 +1,15 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/puppyapple/.config
+- /home/puppyapple/.config/lvim
+- /home/puppyapple/Server/BigAI/nlp_parsing
+- /home/puppyapple/Server/BigAI/AutoLearner
+- /home/puppyapple/Server/BigAI/semantic-parsing
+- /home/puppyapple/Server/BigAI/servers
+- /home/puppyapple/Server/BigAI/servers/nlp_cv_jp_server/component/nlp_parsing/nlp_cv_jp_test
+- /home/puppyapple/Server/BigAI/servers/nlp_cv_jp_server/component/nlp_parsing
+- /home/puppyapple/Server/BigAI/servers/vl_grounding_server
+- /home/puppyapple/.local/share/lunarvim/lvim
+startuppopupversion: 5
+customcommandshistory: []
+hidecommandlog: false
