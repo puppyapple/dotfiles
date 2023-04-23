@@ -1,3 +1,9 @@
 [submodule "lvim"]
 	path = lvim
 	url = git@github.com:puppyapple/lvim.git
+[submodule "kitty/kitty-kitten-search"]
+	path = kitty/kitty-kitten-search
+	url = git@github.com:trygveaa/kitty-kitten-search.git
+[submodule "kitty/kitty_search"]
+	path = kitty/kitty_search
+	url = git@github.com:trygveaa/kitty-kitten-search.git
